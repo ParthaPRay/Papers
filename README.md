@@ -116,12 +116,12 @@ Networks, and QoS Metrics”, Journal of King Saud University - Computer and Inf
 *	Ray, P., P., “A Survey of IoT Cloud Platforms”, Future Computing and Informatics Journal, Elsevier, Volume 1, Issues 1–2, 2016, pp. 35–46. (Scopus)
 
 
-#Peer-Reviewed Journal
+## Peer-Reviewed Journal
 
 *	Ray, P. P., Majumder, P "An Introduction to Pervasive Biomedical Informatics",  CSI Communication Magazine, 43(4), pp. 33-34, 2019.
 *	Ray, P. P., Majumder, P "Understanding the Role of Internet of Things Towards Smart e-Healthcare Services", Biomedical Research 28(8), pp. 1604-1609, 2017.
 
-#Peer-Reviewed International Conference Proceedings
+## Peer-Reviewed International Conference Proceedings
 
 *	Ray, P. P., “, Parametric Analysis of Resource Constrained Devices for Internet of Things using FreeRTOS,  4th International Conference on Inventive Computation and Information Technologies (ICICIT - 2022), In Springer Lecture Notes in Networks and Systems, RVS Technical Campus, Coimbatore, August 25-26, 2022. (Scopus)
 
@@ -177,7 +177,7 @@ Networks, and QoS Metrics”, Journal of King Saud University - Computer and Inf
 
 
 
-#National Conference
+## National Conference
 
 *	Sebastian S., Ray, P. P., Development of IoT Invasive Architecture for Complying with Health of Home, In Proceeding of International Conference on Computing and Communication Systems (I3CS) 2015, Shillong, pp-79-83, 2015. 
 
@@ -188,7 +188,7 @@ Networks, and QoS Metrics”, Journal of King Saud University - Computer and Inf
 *	Rai, R., Lepcha, C., Ray, P., P., Chettri, P., “GDMA: Generalized Domain Model Architecture of Internet of Things”, In proceeding of National Conference on Applied Electronics (NCAE), AIT Kolkata, pp. 65-68, 2013.
 
 
-Book Chapter
+## Book Chapter
 
 *	Majumder. P., Ray. P. P., “Estimation of Basic Reproduction Number and Herd Immunity for COVID-19 in India”, Artificial Intelligence for Information Management: A Healthcare Perspective, Springer, pp. 265-282, Eds(Srinivasa K.G., G. M. S., Sekhar S.R.M), ISBN: 978-981-16-0415-7, 2021.
 *	Ray. P. P., Dash, D. “A Review on Blockchain for IoT-based Medical Delivery Drones: State-of-the-art, Issues, and Future Prospects”, Blockchain Technology for Emerging Applications, Elsevier, Eds(SKH Islam, AK Pal, D Samanta, S Bhattacharyya), ISBN:  9780323901932, 2021. (In Press)
