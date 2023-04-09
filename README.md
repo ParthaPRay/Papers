@@ -2,7 +2,7 @@
 
 I have written many research papers as listed below.
 
-#High Quality Journal
+## High Quality Journal
 
 *	Ray. P. P., “ChatGPT: A Comprehensive Review on Background, Applications, Key Challenges, Bias, Ethics, Limitations and Future Scope”, Internet of Things and Cyber-Physical Systems, Elsevier, 2023. (Scopus) 
 
