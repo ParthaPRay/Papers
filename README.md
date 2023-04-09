@@ -192,3 +192,33 @@ Networks, and QoS Metrics”, Journal of King Saud University - Computer and Inf
 
 *	Majumder. P., Ray. P. P., “Estimation of Basic Reproduction Number and Herd Immunity for COVID-19 in India”, Artificial Intelligence for Information Management: A Healthcare Perspective, Springer, pp. 265-282, Eds(Srinivasa K.G., G. M. S., Sekhar S.R.M), ISBN: 978-981-16-0415-7, 2021.
 *	Ray. P. P., Dash, D. “A Review on Blockchain for IoT-based Medical Delivery Drones: State-of-the-art, Issues, and Future Prospects”, Blockchain Technology for Emerging Applications, Elsevier, Eds(SKH Islam, AK Pal, D Samanta, S Bhattacharyya), ISBN:  9780323901932, 2021. (In Press)
+
+
+
+## Other Journals
+
+* Ray, P., P., Rai., R., “Validation of Range of Resistance of Sensor through Sensor Data Acquisition using SimPlot: A Case Study”, International Journal of Advanced Research in Computer Science and Software Engineering, ISSN: 2277-128X, Vol. 4(3), pp.1251-1255, 2014.
+
+* Ray, P., P., “Channel Modeling of Human Somatosensory Nanonetwork: Body Discriminative Touch and Proprioception Perspective”, International Journal on Computer Science and Engineering (IJCSE), ISSN: 0975-3397, Vol. 5(10), pp.874-884, 2013.
+
+* Ray, P. P., “Automata Modeling Of Hormonal Molecular Communication Channel In Human   Body”, International Journal on Recent Trends in Engineering and Technology (IJRTET), Vol. 8(1), ISSN: 2158-5563, pp.8-12, DOI: 01.IJRTET.8.1.35, 2013.
+
+* Ray, P.  P., “Communication Channel Modeling and Automata Designing of Human Auditory System”,   International Journal on Recent Trends in Engineering and Technology (IJRTET), Vol. 8(1), ISSN: 2158-5563, pp.13-17, DOI: 01.IJRTET.8.1.49, 2013.
+
+* Majumder, P., Ray, P. P., “Hatch-Sens: a Theoretical Bio-Inspired Model to Monitor the Hatching of Plankton Culture in the Vicinity of Wireless Sensor Network”, International Journal of Computer Science and Information Technologies (IJCSIT), ISSN: 0975-9646, Vol. 3(4), pp. 4764 - 4769, 2012.
+
+* Ray, P. P., “Ray’s Scheme: Graphical Password Based Hybrid Authentication System for Smart   Hand Held Devices”, Journal of Information Engineering and Applications (JIEA), Vol. 2(2), ISSN: 2225-0506, pp.1-11, 2012. 
+
+* Ray, P. P., “Translation of Bengali Terms in Mobile Phones: a Simplified Approach Based on the Prescriptions of Conventional Accent Understand Ability”, International Journal of Computer and Organization Trends (IJCOT), ISSN: 2249-2593, Vol 2(1), pp 33-38, 2012.
+
+* Ray, P. P., “Universal Numeric Segment Display for Indian Scheduled Languages: an Architectural   View”, International Journal of Computer Trends and Technology (IJCTT), Vol. 2 (2/2), ISSN: 2231-2803, pp.161-166, 2011.
+
+* Ray, P. P., “OSD: A Source Level Bug Localization Technique Incorporating Control Flow and  State Information in Object Oriented Program”, International Journal of Scientific & Engineering Research (IJSER), ISSN : 2229-5518, Vol. 2 (12), pp. 1-6, 2011.
+
+* Ray, P. P., Banerjee, A., Bag. B., “Debugging Invariant Issues in Pseudo Embedded Program: an Analytical Approach”, International Journal of Computer Science and Information Technologies (IJCSIT), ISSN: 0975-9646, Vol. 2 (2), pp. 780-785, 2011.
+
+* Ray, P. P., “Web based e-learning in India: the cumulative views of different aspects”, Indian Journal of Computer Science and Engineering (IJCSE), ISSN: 0976-5166, Vol. 1 No. 4, pp. 340-352, 2010.
+
+* Ray, P. P., “The green grid saga - a green initiative to data centers: a review”, Indian Journal of  Computer Science and Engineering (IJCSE), ISSN: 0976-5166, Vol. 1 No. 4, pp. 333-339, 2010. 
+
+
