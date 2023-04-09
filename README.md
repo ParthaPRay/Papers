@@ -171,6 +171,11 @@ Peer-Reviewed International Conference Proceedings
 *	Ray, P. P., Banerjee, A., “Debugging Memory Issues in Embedded Linux: A Case Study”, ISBN: 978-1-4244-8942-8. In proceeding of IEEE Technological Symposium (TechSym), IIT Kharagpur, pp. 23-28, 14-16 January, 2011, DOI: 10.1109/TECHSYM.2011.5783857, 2011. 
 
 
+Peer-Reviewed
+
+*	Ray, P. P., Majumder, P "An Introduction to Pervasive Biomedical Informatics",  CSI Communication Magazine, 43(4), pp. 33-34, 2019.
+*	Ray, P. P., Majumder, P "Understanding the Role of Internet of Things Towards Smart e-Healthcare Services", Biomedical Research 28(8), pp. 1604-1609, 2017.
+
 National Conference
 
 *	Sebastian S., Ray, P. P., Development of IoT Invasive Architecture for Complying with Health of Home, In Proceeding of International Conference on Computing and Communication Systems (I3CS) 2015, Shillong, pp-79-83, 2015. 
