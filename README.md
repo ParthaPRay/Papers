@@ -4,122 +4,124 @@ I have written many research papers as listed below.
 
 ## High Quality Journal
 
-*	Ray. P. P., “ChatGPT: A Comprehensive Review on Background, Applications, Key Challenges, Bias, Ethics, Limitations and Future Scope”, Internet of Things and Cyber-Physical Systems, Elsevier, 2023. (Scopus) 
+* Ray. P. P., “ChatGPT: A Comprehensive Review on Background, Applications, Key Challenges, Bias, Ethics, Limitations and Future Scope”, Internet of Things and Cyber-Physical Systems, Elsevier, 2023 ISSN: 2667-3452. (Scopus) 
 
-*	Ray. P. P., Majumder, P., “A Review on Cancer Data Management Using Blockchain: Progress and Challenges”, Advances in Computers, Elsevier, 2023. (Science Citation Index) (IF: 3.067)  (Accepted)
+* Ray. P. P., Majumder, P., “A Review on Cancer Data Management Using Blockchain: Progress and Challenges”, Advances in Computers, Elsevier, 2023, ISSN: 0065-2458. (Science Citation Index) (IF: 3.067).
 
-*	Ray. P. P., Skala, K., “Internet of Things Aware Secure Dew Computing Architecture for Distributed Hotspot Network: A Conceptual Study”, Applied Sciences, MDPI, 2022. (Science Citation Index) (IF: 2.838)  (Accepted)
+* Ray. P. P., Skala, K., “Internet of Things Aware Secure Dew Computing Architecture for Distributed Hotspot Network: A Conceptual Study”, Applied Sciences, MDPI, (12), 2022, ISSN: 2076-3417. (Science Citation Index) (IF: 2.838)  (Accepted)
 
-*	Ray. P. P., “A Review on TinyML: State-of-the-art and Prospects”, Journal of King Saud University - Computer and Information Sciences, Elsevier, 2021. (Science Citation Index) (IF: 8.839)
+* Ray. P. P., “A Review on TinyML: State-of-the-art and Prospects”, Journal of King Saud University - Computer and Information Sciences, Elsevier, 34(4) April, pp. 1595-1623, 2022, ISSN: 1319-1578. (Science Citation Index) (IF: 8.839)
 
-*	Ray. P. P., “A Review on Tactile IoT: Architecture, Requirements, Prospects, and Future Directions”, Transactions on Emerging Telecommunications Technologies, Wiley, 2021. (Science Citation Index) (IF: 3.310) 
+* Ray. P. P., “A Review on Tactile IoT: Architecture, Requirements, Prospects, and Future Directions”, Transactions on Emerging Telecommunications Technologies, Wiley, 33(4), 2022, ISSN: 2161-3915. (Science Citation Index) (IF: 3.310) 
 
-*	Ray. P. P., “IoT-Edge Analytics for BACON Assisted Multivariate Health Data Anomaly”, Advances in Computers, Vol. 127, Elsevier, 2021. (Science Citation Index) (IF: 3.067)
+* Ray. P. P., “IoT-Edge Analytics for BACON Assisted Multivariate Health Data Anomaly”, Advances in Computers, Vol. 127, pp. 117-137, Elsevier, 2022, ISSN: 0065-2458. (Science Citation Index) (IF: 3.067)
 
-*	Ray. P. P., Dash, D., “IoT-Edge Anomaly Detection for Covariate Shifted and Point Time Series Health Data”, Journal of King Saud University - Computer and Information Sciences, Elsevier, 2021. (Science Citation Index) (IF: 8.839) 
+* Ray. P. P., Dash, D., “IoT-Edge Anomaly Detection for Covariate Shifted and Point Time Series Health Data”, Journal of King Saud University - Computer and Information Sciences, Elsevier, 34(10B), pp. 9608-9621, 2022, ISSN: 1319-1578. (Science Citation Index) (IF: 8.839) 
 
-*	Baidya. S., Potdar. V., Ray. P. P., Mandi. C., “Reviewing the opportunities, challenges, and future directions for the digitalization of energy”, Energy Research & Social Science, Elsevier, 2021. (Science Citation Index) (IF: 8.514) 
+* Baidya. S., Potdar. V., Ray. P. P., Mandi. C., “Reviewing the opportunities, challenges, and future directions for the digitalization of energy”, Energy Research & Social Science, Elsevier, 81, 2021, ISSN: 2214-6296. (Social Science Citation Index) (IF: 8.514) 
 
-*	Ray. P. P., “A Review on 6G for Space-air-ground Integrated Network: Key Enablers, Open Challenges, and Future Direction”, Journal of King Saud University - Computer and Information Sciences, Elsevier, 2021. (Science Citation Index) (IF: 8.839) 
+* Ray. P. P., “A Review on 6G for Space-air-ground Integrated Network: Key Enablers, Open Challenges, and Future Direction”, Journal of King Saud University - Computer and Information Sciences, Elsevier, 34(9), pp. 6949-6976, 2022, ISSN: 1319-1578. (Science Citation Index) (IF: 8.839) 
 
-*	Ray, P. P., “A Survey on Cognitive Packet Networks: Taxonomy, State-of-the-art, Random Neural
-Networks, and QoS Metrics”, Journal of King Saud University - Computer and Information Sciences, Elsevier, 2021. (Science Citation Index) (IF: 8.839) 
+* Ray, P. P., “A Survey on Cognitive Packet Networks: Taxonomy, State-of-the-art, Random Neural
+Networks, and QoS Metrics”, Journal of King Saud University - Computer and Information Sciences, Elsevier, 34(8B), pp. 5663-5683, 2022, ISSN: 1319-1578. (Science Citation Index) (IF: 8.839) 
 
-*	Ray, P. P., “A Perspective on 6G: Requirement, Technology, Enablers, Challenges and Future Road Map”, Journal of Systems Architecture, Elsevier, Vol. 118, 2021. (Science Citation Index) (IF: 5.836)  
+* Ray, P. P., “A Perspective on 6G: Requirement, Technology, Enablers, Challenges and Future Road Map”, Journal of Systems Architecture, Elsevier, Vol. 118, 2021, ISSN: 1383-7621. (Science Citation Index) (IF: 5.836)  
 
-*	Majumder, P, Ray, P. P., “A Systematic Review and Meta-analysis on Correlation of Weather with COVID-19”, Scientific Reports, Nature, 2021. (Science Citation Index) (IF: 4.996) 
+* Majumder, P, Ray, P. P., “A Systematic Review and Meta-analysis on Correlation of Weather with COVID-19”, Scientific Reports, Nature, 11, 2021, ISSN: 2045-2322. (Science Citation Index) (IF: 4.996) 
 
-*	Ray, P. P., Kumar, N., Guizani, M., “A Vision on 6G-Enabled NIB: Requirements, Technologies and Future Road Map”, IEEE Wireless Communications, 2021. (Science Citation Index) (IF: 12.777) 
+* Ray, P. P., Kumar, N., Guizani, M., “A Vision on 6G-Enabled NIB: Requirements, Technologies and Future Road Map”, IEEE Wireless Communications, 28(4), pp. 120-127, 2021, ISSN: 1536-1284. (Science Citation Index) (IF: 12.777) 
 
-*	Ray, P. P., Chowhan, B., Kumar, N., Almogren, A., “BIoTHR: Electronic Health Record Servicing Scheme in IoT-Blockchain Ecosystem”, IEEE IoT Journal, 2021. (Science Citation Index) (IF: 10.238)
+* Ray, P. P., Chowhan, B., Kumar, N., Almogren, A., “BIoTHR: Electronic Health Record Servicing Scheme in IoT-Blockchain Ecosystem”, IEEE IoT Journal, 8(13), pp. 10857 – 10872, 2021, ISSN: 2327-4662. (Science Citation Index) (IF: 10.238)
 
-*	Ray, P. P., Kumar, N., “SDN/NFV Architectures for Edge-Cloud IoT Environment: A Systematic Review”, Computer Communications, vol. 169, pp. 129-153, 2021. (Science Citation Index) (IF: 5.047)
+* Ray, P. P., Kumar, N., “SDN/NFV Architectures for Edge-Cloud IoT Environment: A Systematic Review”, Computer Communications, vol. 169, pp. 129-153, 2021, ISSN: 0140-3664. (Science Citation Index) (IF: 5.047)
 
-*	Ray, P. P., Majumder, P., “Biofuel Powered Electronic Skin: Future of Healthcare”, Current Science, vol. 119 (12), pp. 1882-1883, 2020. (Science Citation Index) (IF: 1.169) 
+* Ray, P. P., Majumder, P., “Biofuel Powered Electronic Skin: Future of Healthcare”, Current Science, vol. 119 (12), pp. 1882-1883, 2020, ISSN: 0011-3891. (Science Citation Index) (IF: 1.169) 
 
-*	Ray, P. P., “Intelligent Ingestibles: Future of Internet of Body”, IEEE Internet Computing, vol. 24 (5), pp. 19-27, 2020. (Science Citation Index) (IF: 2.680) 
+* Ray, P. P., “Intelligent Ingestibles: Future of Internet of Body”, IEEE Internet Computing, vol. 24 (5), pp. 19-27, 2020, ISSN: 1089-7801. (Science Citation Index) (IF: 2.680) 
 
-*	Dash, D., Kumar, N., Ray, P. P., Kumar, N., “Reducing Data Gathering Delay for Energy Efficient Wireless Data Collection by Jointly Optimizing Path and Speed of Mobile Sink”, IEEE Systems Journal, 2020. (Science Citation Index) (IF: 4.802)
+* Dash, D., Kumar, N., Ray, P. P., Kumar, N., “Reducing Data Gathering Delay for Energy Efficient Wireless Data Collection by Jointly Optimizing Path and Speed of Mobile Sink”, IEEE Systems Journal, 15(3), pp. 3173 – 3184, 2020, ISSN: 1932-8184. (Science Citation Index) (IF: 4.802)
 
-*	Ray, P. P., Frincu, M., Wang, Y., Skala, K., “Special Issue Editorial: Internet of Things as a Key Enabler of Dew Computing”, Internet of Things, Elsevier, 2020. (Scopus) (IF: 5.711)
+* Ray, P. P., Frincu, M., Wang, Y., Skala, K., “Special Issue Editorial: Internet of Things as a Key Enabler of Dew Computing”, Internet of Things, Elsevier, 11, 2020, ISSN: 2542-6605. (Science Citation Index) (IF: 5.711)
 
-*	Ray, P. P., Dash, D., Mustafa, N., “Streaming Service Provisioning in IoT-based Healthcare: An Integrated Edge-Cloud Perspective”, Transactions on Emerging Telecommunications Technologies, Wiley, vol. 31 (11), 2020. (Science Citation Index) (IF: 3.310) 
+* Ray, P. P., Dash, D., Mustafa, N., “Streaming Service Provisioning in IoT-based Healthcare: An Integrated Edge-Cloud Perspective”, Transactions on Emerging Telecommunications Technologies, Wiley, vol. 31 (11), 2020, ISSN: 2161-3915. (Science Citation Index) (IF: 3.310) 
 
-*	Ray, P. P., Majumder, P. “Coronavirus: A Novel Threat and ICT-based Mitigation”, Current Science, vol. 118(8), pp. 1150-1151, 2020. (Science Citation Index) (IF: 1.169)
+* Ray, P. P., Majumder, P. “Coronavirus: A Novel Threat and ICT-based Mitigation”, Current Science, vol. 118(8), pp. 1150-1151, 2020, ISSN: 0011-3891. (Science Citation Index) (IF: 1.169)
 
-*	Ray, P. P., Dash, D., De, D. “Intelligent Internet of Things Enabled Edge System for Smart Healthcare”, National Academy Science Letters, Springer, 2020. (Science Citation Index) (IF: 0.649).
+* Ray, P. P., Dash, D., De, D. “Intelligent Internet of Things Enabled Edge System for Smart Healthcare”, National Academy Science Letters, Springer, 44, pp. 325-330, 2020, ISSN: 2250-1754. (Science Citation Index) (IF: 0.649).
 
-*	Ray, P. P., Dash, D., Kumar, N., “Sensors for internet of medical things: State-of-the-art, security and privacy issues, challenges and future directions”, Computer Communications, vol. 160, pp. 111-131, 2020. (Science Citation Index) (IF: 5.047) 
+* Ray, P. P., Dash, D., Kumar, N., “Sensors for internet of medical things: State-of-the-art, security and privacy issues, challenges and future directions”, Computer Communications, vol. 160, pp. 111-131, 2020, ISSN: 0140-3664. (Science Citation Index) (IF: 5.047) 
 
-*	Ray, P. P., Majumder, P., “Bacteria-on-a-Chip: Emergence of Digital Medicine”, Current Science, vol. 118(4), pp. 513, 2020 (Science Citation Index) (IF: 1.169). 
+* Ray, P. P., Majumder, P., “Bacteria-on-a-Chip: Emergence of Digital Medicine”, Current Science, vol. 118(4), pp. 513, 2020, ISSN: 0011-3891 (Science Citation Index) (IF: 1.169). 
 
-*	Ray, P. P., Kumar, N., Dash, D., “Blockchain based Lightweight Simplified Payment Verification in IoT-Assisted e-Healthcare Environment”, IEEE Systems Journal, vol. 15(1), 134-145, 2020. (Science Citation Index) (IF: 4.802) 
+* Ray, P. P., Kumar, N., Dash, D., “BLWN: Blockchain-Based Lightweight Simplified Payment Verification in IoT-Assisted e-Healthcare”, IEEE Systems Journal, vol. 15(1), 134-145, 2020, ISSN: 1932-8184. (Science Citation Index) (IF: 4.802) 
 
-*	Ray, P. P., Dash, D., Salah, K., Kumar, N., “Blockchain for IoT-based Healthcare: Background, Consensus, Platforms, and Use Cases”, IEEE Systems Journal, vol. 15(1), pp. 85-94, 2020. (Science Citation Index) (IF: 4.802) 
+* Ray, P. P., Dash, D., Salah, K., Kumar, N., “Blockchain for IoT-based Healthcare: Background, Consensus, Platforms, and Use Cases”, IEEE Systems Journal, vol. 15(1), pp. 85-94, 2020, ISSN: 1932-8184. (Science Citation Index) (IF: 4.802) 
 
-*	Ray, P. P., Majumder, P., “On Chaining the Epigenetic Blocks”, Current Science, vol. 117(10), pp. 1553, Indian Academy of Sciences, 2019. (Science Citation Index) (IF: 1.169)
+* Ray, P. P., Majumder, P., “On Chaining the Epigenetic Blocks”, Current Science, Indian Academy of Sciences vol. 117(10), pp. 1553, 2019, ISSN: 0011-3891. (Science Citation Index) (IF: 1.169)
 
-*	Ray, P. P., Thapa, N., Dash, D., “Implementation and Performance Analysis of Interoperable and Heterogeneous IoT-Edge Gateway for Pervasive Wellness Care”, IEEE Transactions on Consumer Electronics, vol. 65(4), pp. 464-473, 2019. (Science Citation Index) (IF: 4.414) 
+* Ray, P. P., Thapa, N., Dash, D., “Implementation and Performance Analysis of Interoperable and Heterogeneous IoT-Edge Gateway for Pervasive Wellness Care”, IEEE Transactions on Consumer Electronics, vol. 65(4), pp. 464-473, 2019, ISSN: 0098-3063. (Science Citation Index) (IF: 4.414) 
 
-*	Ray, P. P., Dash, D., De, D., “Real-time event-driven sensor data analytics at the edge-Internet of Things for smart personal healthcare”, Journal of Supercomputing, vo. 76, pp. 6648-6668, Springer, 2019. (Science Citation Index) (IF: 2.557) 
+* Ray, P. P., Dash, D., De, D., “Real-time event-driven sensor data analytics at the edge-Internet of Things for smart personal healthcare”, Journal of Supercomputing, Springer, vol. 76, pp. 6648-6668, 2019, ISSN: 1573-0484. (Science Citation Index) (IF: 2.557) 
 
-*	Ray, P. P., Thapa, N., Dash, D., De, D., “Novel Implementation of IoT based Non-Invasive Sensor System for Real-Time Monitoring of Intravenous Fluid Level for Assistive e-Healthcare”, Circuit World, vol. 45(3), pp. 109-123, Emerald Publishing, 2019 (Science Citation Index) (IF: 1.027). 
+* Ray, P. P., Thapa, N., Dash, D., De, D., “Novel Implementation of IoT based Non-Invasive Sensor System for Real-Time Monitoring of Intravenous Fluid Level for Assistive e-Healthcare”, Circuit World, Emerald Publishing, vol. 45(3), pp. 109-123, 2019, ISSN: 0305-6120 (Science Citation Index) (IF: 1.027). 
 
-*	Ray, P. P., Dash, D., De, D., “Edge Computing for Internet of Things: A Survey, e-Healthcare Case Study and Future Direction”, Journal of Network and Computer Applications, Elsevier, vol. 140, pp. 1-22, 2019 (Science Citation Index) (IF: 7.574). 
+* Ray, P. P., Dash, D., De, D., “Edge Computing for Internet of Things: A Survey, e-Healthcare Case Study and Future Direction”, Journal of Network and Computer Applications, Elsevier, vol. 140, pp. 1-22, 2019, ISSN: 1084-8045 (Science Citation Index) (IF: 7.574). 
 
-*	Ray, P. P., Dash, D., De, D., “A Systematic Review and Implementation of IoT-based Sensor-Enabled Pervasive Tracking System for Dementia Patients”, Journal of Medical Systems, Springer, vol. 43(9), 2019.  (Science Citation Index) (IF: 4.920) 
+* Ray, P. P., Dash, D., De, D., “A Systematic Review and Implementation of IoT-based Sensor-Enabled Pervasive Tracking System for Dementia Patients”, Journal of Medical Systems, Springer, vol. 43(9), 2019, ISSN: 1573-689X.  (Science Citation Index) (IF: 4.920) 
 
-*	Ray, P. P., “Energy Packet Networks: An Annotated Bibliography”, SN Computer Science, Springer Nature, 2019. (Scopus)
+* Ray, P. P., “Energy Packet Networks: An Annotated Bibliography”, SN Computer Science, Springer Nature, 2019, ISSN: 2661-8907. (Scopus)
 
-*	Ray, P. P., Dash, D., De, D., “Analysis and Monitoring of IoT Assisted Human Physiological Galvanic Skin Response Factor for Smart E-Healthcare”, Sensor Review, Emerald Publishing, vol. 39(4), pp. 525-541, 2019. (Science Citation Index) (IF: 1.544) 
+* Ray, P. P., Dash, D., De, D., “Analysis and Monitoring of IoT Assisted Human Physiological Galvanic Skin Response Factor for Smart E-Healthcare”, Sensor Review, Emerald Publishing, vol. 39(4), pp. 525-541, 2019, ISSN: 0260-2288. (Science Citation Index) (IF: 1.544) 
 
-*	Majumder, P., Ray, P. P., Ghosh, S., Dey, S. K., “Potential Effect of Tobacco Consumption Through Smoking and Chewing Tobacco on IL1beta Protein Expression in Chronic Periodontitis Patients: In Silico Molecular Docking Study”, IEEE/ACM Transactions on Computational Biology and Bioinformatics, vol. 17(4), pp. 1364-1371, 2019.  (Science Citation Index) (IF: 3.702)
+* Majumder, P., Ray, P. P., Ghosh, S., Dey, S. K., “Potential Effect of Tobacco Consumption Through Smoking and Chewing Tobacco on IL1beta Protein Expression in Chronic Periodontitis Patients: In Silico Molecular Docking Study”, IEEE/ACM Transactions on Computational Biology and Bioinformatics, vol. 17(4), pp. 1364-1371, 2019, ISSN: 1545-5963.  (Science Citation Index) (IF: 3.702)
 
-*	Ray, P. P., “Minimizing Dependency On Internetwork: Is Dew Computing a Solution?”, Transactions on Emerging Telecommunications Technologies, Wiley-Blackwell, Vol. 30, Issue 1, January 2019. (Science Citation Index) (IF: 3.310)
+* Ray, P. P., “Minimizing Dependency On Internetwork: Is Dew Computing a Solution?”, Transactions on Emerging Telecommunications Technologies, Wiley-Blackwell, Vol. 30(1), January 2019, ISSN: 2161-3915. (Science Citation Index) (IF: 3.310)
 
-*	Ray, P. P., Dash, D., De, D., “Internet of Things-based Real-Time Model Study on e-Healthcare: Device, Message Service and Dew Computing”, Computer Networks, Elsevier, Vol. 149, 11 February 2019, pp. 226-239. (Science Citation Index) (IF: 5.493)
+* Ray, P. P., Dash, D., De, D., “Internet of Things-based Real-Time Model Study on e-Healthcare: Device, Message Service and Dew Computing”, Computer Networks, Elsevier, Vol. 149(11), pp. 226-239, February 2019, ISSN: 1872-7069. (Science Citation Index) (IF: 5.493)
 
-*	Ray, P. P., Dash, D., De, D., “Approximation of Fruit Ripening Quality Index for IoT based Assistive e-Healthcare”, Microsystem Technologies, Springer, vol. 25, pp. 3027-3036, 2019. (Science Citation Index) (IF: 2.012)
+* Ray, P. P., Dash, D., De, D., “Approximation of Fruit Ripening Quality Index for IoT based Assistive e-Healthcare”, Microsystem Technologies, Springer, vol. 25, pp. 3027-3036, 2019, ISSN: 1432-1858. (Science Citation Index) (IF: 2.012)
 
-*	Ray, P. P., Thapa N., “A Systematic Review on Real-time Automated Measurement of IV Fluid Level: Status and Challenges”, Measurement, Elsevier, Vol. 129, December 2018, pp. 343-348. (Science Citation Index) (IF: 5.131)
+* Ray, P. P., Thapa N., “A Systematic Review on Real-time Automated Measurement of IV Fluid Level: Status and Challenges”, Measurement, Elsevier, Vol. 129, pp. 343-348, December 2018, ISSN: 1873-412X. (Science Citation Index) (IF: 5.131)
 
-*	Ray, P. P., “Internet of Things based Approximation of Sun Radiative-Evapotranspiration (ET0) Models”, Journal of Agrometeorology, Vol. 20, Issue. 2, 2018, pp. 171-173. (Scopus) (IF: 0.474)
+* Ray, P. P., “Internet of Things based Approximation of Sun Radiative-Evapotranspiration (ET0) Models”, Journal of Agrometeorology, Association of Agrometeorologists, Vol. 20(2), pp. 171-173, 2018, ISSN: 0972-1665. (Scopus) (IF: 0.474)
 
-*	Ray, P. P., “Continuous Glucose Monitoring: A Review of Sensor Systems and Prospects”, Sensor Review, Vol. 38 Issue: 4, pp.420-437, 2018. (Science Citation Index) (IF: 1.544)
+* Ray, P. P., “Continuous Glucose Monitoring: A Review of Sensor Systems and Prospects”, Sensor Review, Vol. 38(4), pp.420-437, 2018, ISSN: 38(4), pp.420-437, 2018. (Science Citation Index) (IF: 1.544)
 
-*	Ray, P. P., “An Introduction to Dew Computing: Definition, Concept and Implications”, IEEE Access, Vol. 6, 2017, pp. 723 -737. (Science Citation Index) (IF: 3.476)
+* Ray, P. P., “An Introduction to Dew Computing: Definition, Concept and Implications”, IEEE Access, Vol. 6, pp. 723 -737, 2017, ISSN: 2169-3536. (Science Citation Index) (IF: 3.476)
 
-*	Ray, P. P., Dash D., De D., “A Systematic Review of Wearable Systems for Cancer Detection: Current State and Challenges”, Journal of Medical Systems, 41:180, 2017. (Science Citation Index) (IF: 4.920)
+* Ray, P. P., Dash D., De D., “A Systematic Review of Wearable Systems for Cancer Detection: Current State and Challenges”, Journal of Medical Systems, Springer, 41:180, 2017, ISSN: 1573-689X. (Science Citation Index) (IF: 4.920)
 
-*	Ray, P. P., Mukherjee, M., Shu, L., “Internet of Things for Disaster Management: State-of-the-art, Challenges, and Future Road Map”, IEEE Access, Vol. 5, Issue. 1, 2017, pp. 18818-18835. (Science Citation Index) (IF: 3.476)
+* Ray, P. P., Mukherjee, M., Shu, L., “Internet of Things for Disaster Management: State-of-the-art, Challenges, and Future Road Map”, IEEE Access, Vol. 5(1), pp. 18818-18835, 2017, ISSN: 2169-3536. (Science Citation Index) (IF: 3.476)
 
-*	Ray, P., P., “Internet of Things for Smart Agriculture: Technologies, Practices and Future Road Map”, Journal of Ambient Intelligence and Smart Environments, IOS Press, Vol. 9, 2017, pp. 395–420. (Science Citation Index) (IF: 4.920)
+* Ray, P., P., “Internet of Things for Smart Agriculture: Technologies, Practices and Future Road Map”, Journal of Ambient Intelligence and Smart Environments, IOS Press, Vol. 9, pp. 395–420, 2017, ISSN: 1876-1364. (Science Citation Index) (IF: 4.920)
 
-*	Ray, P. P., “An IR Sensor Based Smart System to Approximate Body Core Temperature”, Journal of Medical Systems, Springer, 41:123, 2017. (Science Citation Index) (IF: 4.920)
+* Ray, P. P., “An IR Sensor Based Smart System to Approximate Body Core Temperature”, Journal of Medical Systems, Springer, 41:123, 2017, ISSN: 1573-689X. (Science Citation Index) (IF: 4.920)
 
-*	Ray, P. P., “A Survey on Visual Programming Languages in Internet of Things”, Scientific Programming, Hindawi, Vol. 2017, Article ID 1231430, 2017. (Science Citation Index) (IF: 1.672)
+* Ray, P. P., “A Survey on Visual Programming Languages in Internet of Things”, Scientific Programming, Hindawi, Vol. 2017, Article ID 1231430, 2017, ISSN: 1058-9244. (Scopus) (IF: 1.672)
 
-*	Ray, P. P., “Data Analytics: India Needs Agency for Health Data”, Current Science, Vol. 112, Issue 6, 2017, pp. 1082. (Science Citation Index) (IF: 1.169)
+* Ray, P. P., “Data Analytics: India Needs Agency for Health Data”, Current Science, Vol. 112(6), pp. 1082, 2017, ISSN: 0011-3891. (Science Citation Index) (IF: 1.169)
 
-*	Ray, P. P., “Obligations Behind Quantum Internet Dream”, Current Science, Indian Academy of Science, Vol. 112, Issue 11, 2017, pp. 2175-2176. (Science Citation Index) (IF: 1.169)
+* Ray, P. P., “Obligations Behind Quantum Internet Dream”, Current Science, Indian Academy of Science, Vol. 112(11), pp. 2175-2176, 2017, ISSN: 0011-3891. (Science Citation Index) (IF: 1.169)
 
-*	Ray, P. P., “Internet of Things Cloud Enabled MISSENARD Index Measurement for Indoor Occupants”, Measurement, Elsevier, Vol. 92, 2016, pp. 157–165. (Science Citation Index) (IF: 5.131)
+* Ray, P. P., “Internet of Things Cloud Enabled MISSENARD Index Measurement for Indoor Occupants”, Measurement, Elsevier, Vol. 92, pp. 157–165, 2016, ISSN: 1873-412X. (Science Citation Index) (IF: 5.131)
 
-*	Ray, P., P., “Communicating Through Visible Light: Internet of Things Perspective”, Current Science, Indian Academy of Science, Vol. 111 (12), pp. 1903-1905, 2016. (Science Citation Index) (IF: 1.169)
+* Ray, P., P., “Communicating Through Visible Light: Internet of Things Perspective”, Current Science, Indian Academy of Science, Vol. 111 (12), pp. 1903-1905, 2016, ISSN: 0011-3891. (Science Citation Index) (IF: 1.169)
 
-*	Ray, P. P., “Internet of Robotic Things: Concept, Technologies and Challenges”, IEEE Access, Vol. 4, 2016, pp. 9489-9500. (Science Citation Index) (IF: 3.476)
+* Ray, P. P., “Internet of Robotic Things: Concept, Technologies and Challenges”, IEEE Access, Vol. 4, pp. 9489-9500, 2016, ISSN: 2169-3536. (Science Citation Index) (IF: 3.476)
 
-*	Ray, P., P., “Creating Values out of Internet of Things: An Industrial Perspective”, Journal of Computer Networks and Communications, Hindawi, Volume 2016, Article ID 1579460, 2016. (Emerging Sources Citation Index) (Scopus)
+* Ray, P., P., “Creating Values out of Internet of Things: An Industrial Perspective”, Journal of Computer Networks and Communications, Hindawi, Volume 2016, Article ID 1579460, 2016, ISSN: 2090-7141. (Emerging Sources Citation Index) (Scopus)
 
-*	Ray, P. P., “A Survey on Internet of Things Architectures”, Journal of King Saud University - Computer and Information Sciences, Elsevier, Vol. 30, Issue 3, July 2016, pp. 291-319. (Science Citation Index Expanded) (IF: 8.839)
+* Ray, P. P., “A Survey on Internet of Things Architectures”, Journal of King Saud University - Computer and Information Sciences, Elsevier, Vol. 30(3), pp. 291-319, July 2016, ISSN: 1319-1578. (Science Citation Index Expanded) (IF: 8.839)
 
-*	Ray, P., P., “A Survey of IoT Cloud Platforms”, Future Computing and Informatics Journal, Elsevier, Volume 1, Issues 1–2, 2016, pp. 35–46. (Scopus)
+* Ray, P., P., “A Survey of IoT Cloud Platforms”, Future Computing and Informatics Journal, Elsevier, Volume 1, Issues 1–2, 2016, pp. 35–46.
+
 
 
 ## Peer-Reviewed Journal
 
 *	Ray, P. P., Majumder, P "An Introduction to Pervasive Biomedical Informatics",  CSI Communication Magazine, 43(4), pp. 33-34, 2019.
 *	Ray, P. P., Majumder, P "Understanding the Role of Internet of Things Towards Smart e-Healthcare Services", Biomedical Research 28(8), pp. 1604-1609, 2017.
+
 
 ## Peer-Reviewed International Conference Proceedings
 
