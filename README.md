@@ -4,6 +4,8 @@ I have written many research papers as listed below.
 
 ## High Quality Journal
 
+* Ray. P. P., “Web3: A Comprehensive Review on Background, Technologies, Applications, Zero-Trust Architectures, Challenges and Future Directions”, Internet of Things and Cyber-Physical Systems, Elsevier, 2023 ISSN: 2667-3452. (Scopus) 
+
 * Ray. P. P., “ChatGPT: A Comprehensive Review on Background, Applications, Key Challenges, Bias, Ethics, Limitations and Future Scope”, Internet of Things and Cyber-Physical Systems, Elsevier, 2023 ISSN: 2667-3452. (Scopus) 
 
 * Ray. P. P., Majumder, P., “A Review on Cancer Data Management Using Blockchain: Progress and Challenges”, Advances in Computers, Elsevier, 2023, ISSN: 0065-2458. (Science Citation Index) (IF: 3.067).
