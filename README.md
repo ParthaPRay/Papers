@@ -3,6 +3,11 @@
 I have written many research papers as listed below.
 
 ## High Quality Journal
+
+*	Ray. P. P., Majumder, P., “The Double-Edged Sword of AI in Biomedical Engineering: ChatGPT's Controversial Impact on Research and Collaboration Paradigms”,  Annals of Biomedical Engineering, Springer, 2023 ISSN: 1573-9686. (Science Citation Index) (IF: 4.310). (Accepted)
+
+*	Ray. P. P., Majumder, P., “AI Tackles Pandemics: ChatGPT's Game-Changing Impact on Infectious Disease Control”, Annals of Biomedical Engineering, Springer, 2023 ISSN: 1573-9686. (Science Citation Index) (IF: 4.310). (Accepted)
+
 *	Ray. P. P., Majumder, P., “Dr. ChatGPT in Cardiovascular Nursing: A Deeper Dive into Trustworthiness, Value, and Potential Risks”, The European Journal of Cardiovascular Nursing, Oxford Academic, 2023 ISSN: 1873-1953. (Science Citation Index) (IF: 3.593). (Accepted)
 
 *	Ray. P. P., Majumder, P., “ChatGPT in Radiology: A Deeper Look into its Limitations and Potential Pathways for Improvement”, Canadian Association of Radiologists Journal, Sage, 2023 ISSN: 1488-2361. (Science Citation Index) (IF: 4.186). (Accepted)
