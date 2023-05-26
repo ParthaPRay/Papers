@@ -4,6 +4,8 @@ I have written many research papers as listed below.
 
 ## High Quality Journal
 
+*	Ray. P. P., “A Sober Appraisal of AI Systems, Particularly ChatGPT, in the Facets of Emergency Medicine”, Annals of Emergency Medicine, Elsevier, 2023 ISSN: 1097-6760. (Science Citation Index) (IF: 6.762). (Accepted)
+
 *	Ray. P. P., Das, P., K., “Charting the Terrain of Artificial Intelligence: A Multidimensional Exploration of Ethics, Agency, and Future Directions”, Philosophy & Technology, Springer, 2023 ISSN: 2210-5441. (Scopus). (Accepted)
 
 *	Ray. P. P., Majumder, P., “Assessing the Accuracy of Responses by the Language Model ChatGPT to Questions Regarding Bariatric Surgery: A Critical Appraisal”, Obesity Surgery, Springer, 2023 ISSN: 1708-0428. (Science Citation Index) (IF: 3.836). (Accepted)
