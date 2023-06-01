@@ -4,6 +4,8 @@ I have written many research papers as listed below.
 
 ## High Quality Journal
 
+*	Ray. P. P., “Refining the Application of Artificial Intelligence in the Water Domain: Exploring the Potential of ChatGPT”, Science of The Total Environment, Elsevier, 2023 ISSN: 0048-9697. (Science Citation Index) (IF: 10.754). (Accepted)
+
 *	Ray. P. P., “AI-Assisted Sustainable Farming: Harnessing the Power of ChatGPT in Modern Agricultural Sciences and Technology”, AI-Assisted Sustainable Farming: Harnessing the Power of ChatGPT in Modern Agricultural Sciences and Technology, ACS, 2023 ISSN: 2692-1952. (Scopus, ESCI). (Accepted)
 
 *	Ray. P. P., “A Sober Appraisal of AI Systems, Particularly ChatGPT, in the Facets of Emergency Medicine”, Annals of Emergency Medicine, Elsevier, 2023 ISSN: 1097-6760. (Science Citation Index) (IF: 6.762). (Accepted)
