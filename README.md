@@ -4,6 +4,8 @@ I have written many research papers as listed below.
 
 ## High Quality Journal
 
+*	Ray. P. P., Majumder. P., “ChatGPT's Potential to Transform Healthcare and Address Ethical Challenges in AI-driven Medicine”, Journal of Clinical Neurology, Korean Neurological Association, 2023 ISSN: 1738-6586. (Science Citation Index) (IF: 0.76). (Accepted)
+
 *	Ray. P. P., “AI in Sensor Research: A Reality Check and the Underestimated Potential of ChatGPT”, ACS Sensors, ACS, 2023 ISSN: 2379-3694. (Science Citation Index) (IF: 9.618). (Accepted)
 
 *	Ray. P. P., “Refining the Application of Artificial Intelligence in the Water Domain: Exploring the Potential of ChatGPT”, Science of The Total Environment, Elsevier, 2023 ISSN: 0048-9697. (Science Citation Index) (IF: 10.754). (Accepted)
