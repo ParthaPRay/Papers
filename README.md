@@ -4,15 +4,17 @@ I have written many research papers as listed below.
 
 ## High Quality Journal
 
+*	Ray. P. P., “Leveraging Deep Learning and Language Models in Revolutionizing Water Resource Management, Research and Policy-Making: A Case for ChatGPT”, ACS ET&Water, American Chemical Society, 2023 ISSN: 2690-0637. (Scopus). (Accepted)
+
 *	Ray. P. P., Majumder. P., “ChatGPT's Potential to Transform Healthcare and Address Ethical Challenges in AI-driven Medicine”, Journal of Clinical Neurology, Korean Neurological Association, 2023 ISSN: 1738-6586. (Science Citation Index) (IF: 0.76). (Accepted)
 
-*	Ray. P. P., “AI in Sensor Research: A Reality Check and the Underestimated Potential of ChatGPT”, ACS Sensors, ACS, 2023 ISSN: 2379-3694. (Science Citation Index) (IF: 9.618). (Accepted)
+*	Ray. P. P., “AI in Sensor Research: A Reality Check and the Underestimated Potential of ChatGPT”, ACS Sensors, American Chemical Society, 2023 ISSN: 2379-3694. (Science Citation Index) (IF: 9.618). (Accepted)
 
 *	Ray. P. P., “Refining the Application of Artificial Intelligence in the Water Domain: Exploring the Potential of ChatGPT”, Science of The Total Environment, Elsevier, 2023 ISSN: 0048-9697. (Science Citation Index) (IF: 10.754). (Accepted)
 
 *	Ray. P. P., “A Sober Appraisal of AI Systems, Particularly ChatGPT, in the Facets of Emergency Medicine”, Annals of Emergency Medicine, Elsevier, 2023 ISSN: 1097-6760. (Science Citation Index) (IF: 6.762). (Accepted)
 
-*	Ray. P. P., “AI-Assisted Sustainable Farming: Harnessing the Power of ChatGPT in Modern Agricultural Sciences and Technology”, ACS Agricultural Science & Technology, ACS, 2023 ISSN: 2692-1952. (Scopus). (Accepted)
+*	Ray. P. P., “AI-Assisted Sustainable Farming: Harnessing the Power of ChatGPT in Modern Agricultural Sciences and Technology”, ACS Agricultural Science & Technology, American Chemical Society, 2023 ISSN: 2692-1952. (Scopus). (Accepted)
 
 *	Ray. P. P., Das, P., K., “Charting the Terrain of Artificial Intelligence: A Multidimensional Exploration of Ethics, Agency, and Future Directions”, Philosophy & Technology, Springer, 2023 ISSN: 2210-5441. (Scopus). (Accepted)
 
