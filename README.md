@@ -57,7 +57,7 @@ Networks, and QoS Metrics”, Journal of King Saud University - Computer and Inf
 
 * Majumder, P, Ray, P. P., “A Systematic Review and Meta-analysis on Correlation of Weather with COVID-19”, Scientific Reports, Nature, 11, 2021, ISSN: 2045-2322. (Science Citation Index) (IF: 4.996) 
 
-* Ray, P. P., Kumar, N., Guizani, M., “A Vision on 6G-Enabled NIB: Requirements, Technologies and Future Road Map”, IEEE Wireless Communications, 28(4), pp. 120-127, 2021, ISSN: 1536-1284. (Science Citation Index) (IF: 12.777) 
+* Ray, P. P., Kumar, N., Guizani, M., “A Vision on 6G-Enabled NIB: Requirements, Technologies, Deployments and Prospects”, IEEE Wireless Communications, 28(4), pp. 120-127, 2021, ISSN: 1536-1284. (Science Citation Index) (IF: 12.777) 
 
 * Ray, P. P., Chowhan, B., Kumar, N., Almogren, A., “BIoTHR: Electronic Health Record Servicing Scheme in IoT-Blockchain Ecosystem”, IEEE IoT Journal, 8(13), pp. 10857 – 10872, 2021, ISSN: 2327-4662. (Science Citation Index) (IF: 10.238)
 
