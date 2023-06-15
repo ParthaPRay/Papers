@@ -4,9 +4,11 @@ I have written many research papers as listed below.
 
 ## High Quality Journal
 
-*	Ray. P. P., “Leveraging Deep Learning and Language Models in Revolutionizing Water Resource Management, Research and Policy-Making: A Case for ChatGPT”, ACS ET&Water, American Chemical Society, 2023 ISSN: 2690-0637. (Scopus). (Accepted)
+*	Ray. P. P., “ChatGPT in Radiology: Transforming Patient Care with AI Chatbots”, Journal of the American College of Radiology, American College of Cardiology - Elsevier, 2023 ISSN: 1558-349X. (Science Citation Index) (IF: 6.24). (Accepted)
 
-*	Ray. P. P., Majumder. P., “ChatGPT's Potential to Transform Healthcare and Address Ethical Challenges in AI-driven Medicine”, Journal of Clinical Neurology, Korean Neurological Association, 2023 ISSN: 1738-6586. (Science Citation Index) (IF: 0.76). (Accepted)
+*		Ray. P. P., “Leveraging Deep Learning and Language Models in Revolutionizing Water Resource Management, Research and Policy-Making: A Case for ChatGPT”, ACS ET&Water, American Chemical Society, 2023 ISSN: 2690-0637. (Scopus). (Accepted)
+
+*	Ray. P. P., Majumder. P., “ChatGPT's Potential to Transform Healthcare and Address Ethical Challenges in AI-driven Medicine”, Journal of Clinical Neurology, Korean Neurological Association, 2023 ISSN: 1738-6586. (Science Citation Index) (IF: 3.701). (Accepted)
 
 *	Ray. P. P., “AI in Sensor Research: A Reality Check and the Underestimated Potential of ChatGPT”, ACS Sensors, American Chemical Society, 2023 ISSN: 2379-3694. (Science Citation Index) (IF: 9.618). (Accepted)
 
