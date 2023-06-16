@@ -4,6 +4,8 @@ I have written many research papers as listed below.
 
 ## High Quality Journal
 
+*	Ray. P. P., “Transforming Industrial Reliability: The Intersection of Failure Modes and Effects Analysis with Artificial Intelligence”, Journal of Failure Analysis and Prevention, Springer, 2023 ISSN: 1864-1245 (Scopus). (Accepted)
+
 *	Ray. P. P., “ChatGPT in Radiology: Transforming Patient Care with AI Chatbots”, Journal of the American College of Radiology, American College of Cardiology - Elsevier, 2023 ISSN: 1558-349X. (Science Citation Index) (IF: 6.24). (Accepted)
 
 *	Ray. P. P., “Leveraging Deep Learning and Language Models in Revolutionizing Water Resource Management, Research and Policy-Making: A Case for ChatGPT”, ACS ET&Water, American Chemical Society, 2023 ISSN: 2690-0637. (Scopus). (Accepted)
