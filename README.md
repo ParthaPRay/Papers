@@ -4,7 +4,9 @@ I have written many research papers as listed below.
 
 ## High Quality Journal
 
-*	Ray. P. P., Das. P. K., Majumder, P., “ChatGPT and Societal Dynamics: Navigating the Crossroads of AI and Human Interaction”, AI & Society: Knowledge, Culture and Communication, Springer, 2023 ISSN: 1435-5655 (Scopus). (Accepted)
+*	Ray. P. P., “Bridging the Gap: Integrating ChatGPT into Obstetrics and Gynecology Research - A Call to Action, Archives of Gynecology and Obstetrics, Springer, 2023 ISSN: 1432-0711 (Science Citation Index) (IF: 2.804). (Accepted)
+
+*	Ray. P. P., Das. P. K., “ChatGPT and Societal Dynamics: Navigating the Crossroads of AI and Human Interaction”, AI & Society: Knowledge, Culture and Communication, Springer, 2023 ISSN: 1435-5655 (Scopus). (Accepted)
 
 *	Ray. P. P., Majumder, P., “Impact of ChatGPT on Surgical Practice and Research: Embracing AI's Transformative Potential”, Indian Journal of Surgery, Springer, 2023 ISSN: 0973-9793 (Science Citation Index) (IF: 0.609). (Accepted)
 
