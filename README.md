@@ -4,6 +4,8 @@ I have written many research papers as listed below.
 
 ## High Quality Journal
 
+*	Ray. P. P., “ChatGPT: A Game Changer in Academic Medicine's AI Revolution”, Academic Medicine, Walters Kluwer, 2023, ISSN: 0011-3891. (Science Citation Index) (IF: 7.4)
+
 *	Ray. P. P., Majumder, P. “Role of ChatGPT in predicting protein-protein interactions (PPI)”, Current Science, Indian Academy of Sciences, 2023, ISSN: 0011-3891. (Science Citation Index) (IF: 1.169)
 
 *	Ray. P. P., “Bridging the Gap: Integrating ChatGPT into Obstetrics and Gynecology Research - A Call to Action", Archives of Gynecology and Obstetrics, Springer, 2023 ISSN: 1432-0711 (Science Citation Index) (IF: 2.804). (Accepted)
