@@ -4,45 +4,45 @@ I have written many research papers as listed below.
 
 ## High Quality Journal
 
-*	Ray. P. P., “ChatGPT: A Game Changer in Academic Medicine's AI Revolution”, Academic Medicine, Walters Kluwer, 2023, ISSN: 1040-2446. (Science Citation Index) (IF: 7.4)
+* Ray. P. P., “ChatGPT: A Game Changer in Academic Medicine's AI Revolution”, Academic Medicine, Walters Kluwer, 2023, ISSN: 1040-2446. (Science Citation Index) (IF: 7.4)
 
-*	Ray. P. P., Majumder, P. “Role of ChatGPT in predicting protein-protein interactions (PPI)”, Current Science, Indian Academy of Sciences, 2023, ISSN: 0011-3891. (Science Citation Index) (IF: 1.169)
+* Ray. P. P., Majumder, P. “Role of ChatGPT in predicting protein-protein interactions (PPI)”, Current Science, Indian Academy of Sciences, 2023, ISSN: 0011-3891. (Science Citation Index) (IF: 1.169)
 
-*	Ray. P. P., “Bridging the Gap: Integrating ChatGPT into Obstetrics and Gynecology Research - A Call to Action", Archives of Gynecology and Obstetrics, Springer, 2023 ISSN: 1432-0711 (Science Citation Index) (IF: 2.804). (Accepted)
+* Ray. P. P., “Bridging the Gap: Integrating ChatGPT into Obstetrics and Gynecology Research - A Call to Action”, Archives of Gynecology and Obstetrics, Springer, 2023 ISSN: 1432-0711 (Science Citation Index) (IF: 2.804). (Accepted)
 
-*	Ray. P. P., Das. P. K., “ChatGPT and Societal Dynamics: Navigating the Crossroads of AI and Human Interaction”, AI & Society: Knowledge, Culture and Communication, Springer, 2023 ISSN: 1435-5655 (Scopus). (Accepted)
+* Ray. P. P., Das. P. K., “ChatGPT and Societal Dynamics: Navigating the Crossroads of AI and Human Interaction”, AI & Society: Knowledge, Culture and Communication, Springer, 2023 ISSN: 1435-5655 (Scopus) (IF:3). 
 
-*	Ray. P. P., Majumder, P., “Impact of ChatGPT on Surgical Practice and Research: Embracing AI's Transformative Potential”, Indian Journal of Surgery, Springer, 2023 ISSN: 0973-9793 (Science Citation Index) (IF: 0.609). (Accepted)
+* Ray. P. P., Majumder, P., “Impact of ChatGPT on Surgical Practice and Research: Embracing AI's Transformative Potential”, Indian Journal of Surgery, Springer, 2023 ISSN: 0973-9793 (Science Citation Index) (IF: 0.609). 
 
-*	Ray. P. P., “Transforming Industrial Reliability: The Intersection of Failure Modes and Effects Analysis with Artificial Intelligence”, Journal of Failure Analysis and Prevention, Springer, 2023 ISSN: 1864-1245 (Scopus). (Accepted)
+* Ray. P. P., “Transforming Industrial Reliability: The Intersection of Failure Modes and Effects Analysis with Artificial Intelligence”, Journal of Failure Analysis and Prevention, Springer, 2023 ISSN: 1864-1245 (Scopus) (IF: 1.1). (Accepted)
 
-*	Ray. P. P., “ChatGPT in Radiology: Transforming Patient Care with AI Chatbots”, Journal of the American College of Radiology, American College of Cardiology - Elsevier, 2023 ISSN: 1558-349X. (Science Citation Index) (IF: 6.24). (Accepted)
+* Ray. P. P., “ChatGPT in Radiology: Transforming Patient Care with AI Chatbots”, Journal of the American College of Radiology, American College of Cardiology - Elsevier, 2023 ISSN: 1558-349X. (Science Citation Index) (IF: 6.24). (Accepted)
 
-*	Ray. P. P., “Leveraging Deep Learning and Language Models in Revolutionizing Water Resource Management, Research and Policy-Making: A Case for ChatGPT”, ACS ET&Water, American Chemical Society, 2023 ISSN: 2690-0637. (Scopus). (Accepted)
+* Ray. P. P., “Leveraging Deep Learning and Language Models in Revolutionizing Water Resource Management, Research and Policy-Making: A Case for ChatGPT”, ACS ET&Water, American Chemical Society, 2023 ISSN: 2690-0637. (Scopus). (Accepted)
 
-*	Ray. P. P., Majumder. P., “ChatGPT's Potential to Transform Healthcare and Address Ethical Challenges in AI-driven Medicine”, Journal of Clinical Neurology, Korean Neurological Association, 2023 ISSN: 1738-6586. (Science Citation Index) (IF: 3.701). (Accepted)
+* Ray. P. P., Majumder. P., “ChatGPT's Potential to Transform Healthcare and Address Ethical Challenges in AI-driven Medicine”, Journal of Clinical Neurology, Korean Neurological Association, 2023 ISSN: 1738-6586. (Science Citation Index) (IF: 3.701). (Accepted)
 
-*	Ray. P. P., “AI in Sensor Research: A Reality Check and the Underestimated Potential of ChatGPT”, ACS Sensors, American Chemical Society, 2023 ISSN: 2379-3694. (Science Citation Index) (IF: 9.618). (Accepted)
+* Ray. P. P., “AI in Sensor Research: A Reality Check and the Underestimated Potential of ChatGPT”, ACS Sensors, American Chemical Society, 2023 ISSN: 2379-3694. (Science Citation Index) (IF: 9.618). (Accepted)
 
-*	Ray. P. P., “Refining the Application of Artificial Intelligence in the Water Domain: Exploring the Potential of ChatGPT”, Science of The Total Environment, Elsevier, 2023 ISSN: 0048-9697. (Science Citation Index) (IF: 10.754). (Accepted)
+* Ray. P. P., “Refining the Application of Artificial Intelligence in the Water Domain: Exploring the Potential of ChatGPT”, Science of The Total Environment, Elsevier, 2023 ISSN: 0048-9697. (Science Citation Index) (IF: 10.754). (Accepted)
 
-*	Ray. P. P., “A Sober Appraisal of AI Systems, Particularly ChatGPT, in the Facets of Emergency Medicine”, Annals of Emergency Medicine, Elsevier, 2023 ISSN: 1097-6760. (Science Citation Index) (IF: 6.762). (Accepted)
+* Ray. P. P., “A Sober Appraisal of AI Systems, Particularly ChatGPT, in the Facets of Emergency Medicine”, Annals of Emergency Medicine, Elsevier, 2023 ISSN: 1097-6760. (Science Citation Index) (IF: 6.762). (Accepted)
 
-*	Ray. P. P., “AI-Assisted Sustainable Farming: Harnessing the Power of ChatGPT in Modern Agricultural Sciences and Technology”, ACS Agricultural Science & Technology, American Chemical Society, 2023 ISSN: 2692-1952. (Scopus). (Accepted)
+* Ray. P. P., “AI-Assisted Sustainable Farming: Harnessing the Power of ChatGPT in Modern Agricultural Sciences and Technology”, ACS Agricultural Science & Technology, American Chemical Society, 2023 ISSN: 2692-1952. (Scopus). (Accepted)
 
-*	Ray. P. P., Das, P., K., “Charting the Terrain of Artificial Intelligence: A Multidimensional Exploration of Ethics, Agency, and Future Directions”, Philosophy & Technology, Springer, 2023 ISSN: 2210-5441. (Scopus). (Accepted)
+* Ray. P. P., Das, P., K., “Charting the Terrain of Artificial Intelligence: A Multidimensional Exploration of Ethics, Agency, and Future Directions”, Philosophy & Technology, Springer, 2023 ISSN: 2210-5441. (Scopus). (Accepted)
 
-*	Ray. P. P., Majumder, P., “Assessing the Accuracy of Responses by the Language Model ChatGPT to Questions Regarding Bariatric Surgery: A Critical Appraisal”, Obesity Surgery, Springer, 2023 ISSN: 1708-0428. (Science Citation Index) (IF: 3.836). (Accepted)
+* Ray. P. P., Majumder, P., “Assessing the Accuracy of Responses by the Language Model ChatGPT to Questions Regarding Bariatric Surgery: A Critical Appraisal”, Obesity Surgery, Springer, 2023 ISSN: 1708-0428. (Science Citation Index) (IF: 3.836). (Accepted)
 
-*	Ray. P. P., Majumder, P., “The Double-Edged Sword of AI in Biomedical Engineering: ChatGPT's Controversial Impact on Research and Collaboration Paradigms”,  Annals of Biomedical Engineering, Springer, 2023 ISSN: 1573-9686. (Science Citation Index) (IF: 4.310). 
+* ay. P. P., Majumder, P., “The Double-Edged Sword of AI in Biomedical Engineering: ChatGPT's Controversial Impact on Research and Collaboration Paradigms”, Annals of Biomedical Engineering, Springer, 2023 ISSN: 1573-9686. (Science Citation Index) (IF: 4.310). 
 
-*	Ray. P. P., Majumder, P., “AI Tackles Pandemics: ChatGPT's Game-Changing Impact on Infectious Disease Control”, Annals of Biomedical Engineering, Springer, 2023 ISSN: 1573-9686. (Science Citation Index) (IF: 4.310). 
+* Ray. P. P., Majumder, P., “AI Tackles Pandemics: ChatGPT's Game-Changing Impact on Infectious Disease Control”, Annals of Biomedical Engineering, Springer, 2023 ISSN: 1573-9686. (Science Citation Index) (IF: 4.310).
 
-*	Ray. P. P., Majumder, P., “Dr. ChatGPT in Cardiovascular Nursing: A Deeper Dive into Trustworthiness, Value, and Potential Risks”, The European Journal of Cardiovascular Nursing, Oxford Academic, 2023 ISSN: 1873-1953. (Science Citation Index) (IF: 3.593). (Accepted)
+* Ray. P. P., Majumder, P., “Dr. ChatGPT in Cardiovascular Nursing: A Deeper Dive into Trustworthiness, Value, and Potential Risks”, The European Journal of Cardiovascular Nursing, Oxford Academic, 2023 ISSN: 1873-1953. (Science Citation Index) (IF: 3.593). (Accepted)
 
-*	Ray. P. P., Majumder, P., “ChatGPT in Radiology: A Deeper Look into its Limitations and Potential Pathways for Improvement”, Canadian Association of Radiologists Journal, Sage, 2023 ISSN: 1488-2361. (Science Citation Index) (IF: 4.186). 
+* Ray. P. P., Majumder, P., “ChatGPT in Radiology: A Deeper Look into its Limitations and Potential Pathways for Improvement”, Canadian Association of Radiologists Journal, Sage, 2023 ISSN: 1488-2361. (Science Citation Index) (IF: 4.186). 
 
-*	Ray. P. P., Majumder, P., “Assessing ChatGPT's Potential: A Critical Analysis and Future Directions in Total Joint Arthroplasty”, The Journal of Arthroplasty, Elsevier, 2023 ISSN: 1532-8406. (Science Citation Index) (IF: 4.435). (Accepted)
+* Ray. P. P., Majumder, P., “Assessing ChatGPT's Potential: A Critical Analysis and Future Directions in Total Joint Arthroplasty”, The Journal of Arthroplasty, Elsevier, 2023 ISSN: 1532-8406. (Science Citation Index) (IF: 4.435). (Accepted)
 
 * Ray. P. P., “Web3: A Comprehensive Review on Background, Technologies, Applications, Zero-Trust Architectures, Challenges and Future Directions”, Internet of Things and Cyber-Physical Systems, Elsevier, 2023 ISSN: 2667-3452. (Scopus) 
 
