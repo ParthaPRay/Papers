@@ -4,6 +4,8 @@ I have written many research papers as listed below.
 
 ## High Quality Journal
 
+*	Ray. P. P., “Peeking Inside GPT-4 for Medical Research and Practice”, Journal of the Chinese Medical Association, The Chinese Medical Association, Taipei, Taiwan, 2023, ISSN: 1726-4901. (Science Citation Index) (IF: 3.396)
+
 *	Ray. P. P., “Bridging the Gap: Integrating ChatGPT into Obstetrics and Gynecology Research - A Call to Action”, Archives of Gynecology and Obstetrics, 2023, ISSN: 1097-6868. (Science Citation Index) (IF: 9.8)
 
 *	Ray. P. P., Majumder, P., “Beyond the Hype: A Comprehensive Critique of ChatGPT’s Applicability in Genetics”, European Journal of Human Genetics, Nature, 2023, ISSN: 1476-5438. (Science Citation Index) (IF: 5.2)
