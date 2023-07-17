@@ -4,6 +4,8 @@ I have written many research papers as listed below.
 
 ## High Quality Journal
 
+*	Ray. P. P., “A Critical Examination and Suggestions for Large Language Models for Structured Reporting in Radiology”, La radiologia medica, Springer, 2023, ISSN: 1826-6983. (Science Citation Index) (IF: 8.9)
+
 *	Ray. P. P., “Broadening the Horizon: A Call for Extensive Exploration of ChatGPT's Potential in Obstetrics and Gynecology”, American Journal of Obstetrics & Gynecology, 2023, ISSN: 1097-6868. (Science Citation Index) (IF: 9.8)
 
 *	Ray. P. P., “Re-evaluating the Role of AI in Scientific Writing: A Critical Analysis on ChatGPT”, Skeletal Radiology, Springer, 2023, ISSN: 1432-2161. (Science Citation Index) (IF: 2.1)
