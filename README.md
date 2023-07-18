@@ -4,6 +4,8 @@ I have written many research papers as listed below.
 
 ## High Quality Journal
 
+*	Ray. P. P., “A Critical Perspective on Large Language Model to Obtain Clinical Information about Fertility Research”, Fertility and Sterility, ASRM, 2023, ISSN: 1556-5653. (Science Citation Index) (IF: 6.7)
+
 *	Ray. P. P., “A Critical Examination and Suggestions for Large Language Models for Structured Reporting in Radiology”, La radiologia medica, Springer, 2023, ISSN: 1826-6983. (Science Citation Index) (IF: 8.9)
 
 *	Ray. P. P., “Broadening the Horizon: A Call for Extensive Exploration of ChatGPT's Potential in Obstetrics and Gynecology”, American Journal of Obstetrics & Gynecology, 2023, ISSN: 1097-6868. (Science Citation Index) (IF: 9.8)
