@@ -4,6 +4,8 @@ I have written many research papers as listed below.
 
 ## High Quality Journal
 
+* Ray. P. P., “Revisiting the Need of the Use of GPT in Surgery and Medicine”, Techniques in Coloproctology, Springer, 2023, ISSN: 1123-6337. (Science Citation Index) (IF: 3.5)
+
 * Ray. P. P., “A Critical Analysis of Use of ChatGPT in Orthopedics”, International Orthopaedics, Springer, 2023, ISSN: 1432-5195. (Science Citation Index) (IF: 2.9)
 
 *	Ray. P. P., “A Critical Perspective on Large Language Model to Obtain Clinical Information about Fertility Research”, Fertility and Sterility, ASRM, 2023, ISSN: 1556-5653. (Science Citation Index) (IF: 6.7)
