@@ -6,7 +6,7 @@ I have written many research papers as listed below.
 
 * Ray. P. P., “Is ChatGPT Worthy Enough for Provisioning Clinical Decision Support?”, Journal of the American Medical Informatics Association, Oxford University Press, 2023, ISSN: 1527-974X. (Science Citation Index) (IF: 6.4)
 
-* Ray. P. P., “Is ChatGPT Good Enough for Helping Cancer Study?”, JNCI Cancer Spectrum, Oxford University Press, 2023, ISSN: 2515-5091. (Science Citation Index) (IF: 4.4)
+* Ray. P. P., “RE: Artificial intelligence chatbots will revolutionize how cancer patients access information: ChatGPT represents a paradigm-shift”, JNCI Cancer Spectrum, Oxford University Press, 2023, ISSN: 2515-5091. (Science Citation Index) (IF: 4.4)
 
 * Ray. P. P., “Benchmarking, Ethical Alignment, and Evaluation Framework for Conversational AI: Advancing Responsible Development of ChatGPT”, BenchCouncil Transactions on Benchmarks, Standards and Evaluations, KeAI, 2023, ISSN: 2772-4859.
 
