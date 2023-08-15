@@ -4,6 +4,8 @@ I have written many research papers as listed below.
 
 ## High Quality Journal
 
+* Ray. P. P., “An Overview on WebAssembly for IoT: Background, Tools, State-of-the-art, Challenges and Future Direction”, Future Internet, MDPI, 2023, ISSN: 1999-5903. (Scopus) (IF: 3.4)
+  
 * Ray. P. P., “Can LLMs Improve Existing Scenario of Healthcare?”, Journal of Hepatology, EASL, 2023, ISSN: 1600-0641. (Science Citation Index) (IF: 25.7)
 
 * Ray. P. P., “Is ChatGPT Worthy Enough for Provisioning Clinical Decision Support?”, Journal of the American Medical Informatics Association, Oxford University Press, 2023, ISSN: 1527-974X. (Science Citation Index) (IF: 6.4)
