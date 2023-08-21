@@ -4,6 +4,8 @@ I have written many research papers as listed below.
 
 ## High Quality Journal
 
+* Ray. P. P., “Generative AI: A New Dawn in Cardiovascular Study and Research”, Indian Journal of Thoracic and Cardiovascular Surgery, Springer, 2023, ISSN: 0973-7723. (Scopus) (IF: 0.7)
+
 * Ray. P. P., “Can We Depend on LLMs to Persuade Myopia Related Issues?”, Ophthalmic and Physiological Optics, Wiley, 2024, ISSN: 1475-1313. (Science Citation Index) (IF: 2.9)
 
 * Ray. P. P., “An Overview on WebAssembly for IoT: Background, Tools, State-of-the-art, Challenges and Future Direction”, Future Internet, MDPI, 2023, ISSN: 1999-5903. (Scopus) (IF: 3.4)
