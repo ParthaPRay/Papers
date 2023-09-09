@@ -4,6 +4,8 @@ I have written many research papers as listed below.
 
 ## High Quality Journal
 
+* Ray. P. P., “ChatGPT’s Competence in Addressing Urolithiasis: Myth or Reality?”, International Urology and Nephrology, Springer, 2023, ISSN: 1573-2584. (Science Citation Index) (IF: 2.2)
+
 * Ray. P. P., “Generative AI: In Rescue of Healthcare Reformation”, World Journal of Urology, Springer, 2023, ISSN: 1433-8726. (Science Citation Index) (IF: 3.4)
 
 * Ray. P. P., “Can ChatGPT Truly Overcome other LLMs?”, Canadian Association of Radiologists Journal, Sage, 2023, ISSN: 1488-2361. (Science Citation Index) (IF: 3.1)
