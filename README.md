@@ -4,6 +4,8 @@ I have written many research papers as listed below.
 
 ## High Quality Journal
 
+* Ray. P. P., “A Critical Evaluation on the Use of Large Language Model for Radiology Research”, European Radiology, Springer, 2023, ISSN: 1432-1084. (Science Citation Index) (IF: 5.9)
+
 * Ray. P. P., “Striking a Balance: Embracing LLMs while Upholding Scientific Integrity”, Japanese Journal of Radiology, Springer, 2023, ISSN: 1867-108X. (Science Citation Index) (IF: 2.1)
 
 * Ray. P. P., “ChatGPT’s Competence in Addressing Urolithiasis: Myth or Reality?”, International Urology and Nephrology, Springer, 2023, ISSN: 1573-2584. (Science Citation Index) (IF: 2.2)
