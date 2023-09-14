@@ -4,6 +4,8 @@ I have written many research papers as listed below.
 
 ## High Quality Journal
 
+* Ray. P. P., “Can GPT-4 Direct a New Horizon for Healthcare Academics, Scientific Writing and Research?”, Surgical Innovation, Sage, 2023, ISSN: 1553-3514. (Science Citation Index) (IF: 1.5)
+
 * Ray. P. P., “A Critical Evaluation on the Use of Large Language Model for Radiology Research”, European Radiology, Springer, 2023, ISSN: 1432-1084. (Science Citation Index) (IF: 5.9)
 
 * Ray. P. P., “Striking a Balance: Embracing LLMs while Upholding Scientific Integrity”, Japanese Journal of Radiology, Springer, 2023, ISSN: 1867-108X. (Science Citation Index) (IF: 2.1)
