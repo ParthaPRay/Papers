@@ -4,6 +4,8 @@ I have written many research papers as listed below.
 
 ## High Quality Journals
 
+* Ray. P. P., “ChatGPT and Forensic Science: A New Dawn of Investigation”, Forensic Science, Medicine and Pathology, Springer, 2023, ISSN: 1556-2891. (Science Citation Index) (IF: 1.8)
+
 * Ray. P. P., “Can GPT-4 Direct a New Horizon for Healthcare Academics, Scientific Writing and Research?”, Surgical Innovation, Sage, 2023, ISSN: 1553-3514. (Science Citation Index) (IF: 1.5)
 
 * Ray. P. P., “A Critical Evaluation on the Use of Large Language Model for Radiology Research”, European Radiology, Springer, 2023, ISSN: 1432-1084. (Science Citation Index) (IF: 5.9)
