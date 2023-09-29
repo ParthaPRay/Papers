@@ -38,7 +38,7 @@ I have written many research papers as listed below.
 
 * Ray. P. P., “A Critical Analysis of Use of ChatGPT in Orthopedics”, International Orthopaedics, Springer, 2023, ISSN: 1432-5195. (Science Citation Index) (IF: 2.9)
 
-*	Ray. P. P., “A Critical Perspective on Large Language Model to Obtain Clinical Information about Fertility Research”, Fertility and Sterility, ASRM, 2023, ISSN: 1556-5653. (Science Citation Index) (IF: 6.7)
+*	Ray. P. P., “A Critical Perspective on Large Language Model to Obtain Clinical Information about Fertility Research”, Fertility and Sterility, ASRM, 2024, ISSN: 1556-5653. (Science Citation Index) (IF: 6.7) 
 
 *	Ray. P. P., “A Critical Examination and Suggestions for Large Language Models for Structured Reporting in Radiology”, La radiologia medica, Springer, 2023, ISSN: 1826-6983. (Science Citation Index) (IF: 8.9)
 
@@ -54,7 +54,7 @@ I have written many research papers as listed below.
   
 * Ray. P. P., “Need to Evaluate the Role of GPT-4 in Generating Radiology Reports”, Radiology, RSNA, 2023, ISSN: 1527-1315. (Science Citation Index) (IF: 19.7)
 
-* Ray. P. P., “ChatGPT: A Game Changer in Academic Medicine's AI Revolution”, Academic Medicine, Walters Kluwer, 2023, ISSN: 1040-2446. (Science Citation Index) (IF: 7.4)
+* Ray. P. P., “ChatGPT: ChatGPT: A Game Changer in Academic Medicine's Artificial Intelligence Revolution”, Academic Medicine, Walters Kluwer, 2023, ISSN: 1040-2446. (Science Citation Index) (IF: 7.4)
 
 * Ray. P. P., Majumder, P. “Role of ChatGPT in predicting protein-protein interactions (PPI)”, Current Science, Indian Academy of Sciences, 2023, ISSN: 0011-3891. (Science Citation Index) (IF: 1.169)
 
