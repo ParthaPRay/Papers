@@ -4,6 +4,8 @@ I have written many research papers as listed below.
 
 ## High Quality Journals
 
+* Ray. P. P., “Using ChatGPT for Early Career Research Scholarship”, The Clinical Teacher, Wiley, 2023, ISSN: 1743-498X. (Science Citation Index) (IF: 1.8)
+
 * Ray. P. P., “Is ChatGPT Really Helpful for Nutrition and Dietetics?”, Journal of the Academy of Nutrition and Dietetics, 2023, ISSN: 212-2680. (Science Citation Index) (IF: 4.8)
 
 * Ray. P. P., “Advancing AI in Rheumatology: Critical Reflections and Proposals for Future Research Using Large Language Models”, Rheumatology International, Springer, 2023, ISSN: 1437-160X. (Science Citation Index) (IF: 4)
