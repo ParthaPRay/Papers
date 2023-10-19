@@ -4,6 +4,8 @@ I have written many research papers as listed below.
 
 ## High Quality Journals
 
+* Ray. P. P., “Evaluating the Limitations of ChatGPT in Generating Competent Radiology Reports for Distal Radius Fractures”, Current Problems in Diagnostic Radiology, Elsevier, 2023, ISSN: 1535-6302. (Scopus) (IF: 1.4)
+
 * Ray. P. P., “Comment on: AI am a Rheumatologist: a practical primer to large language models for rheumatologists”, Rheumatology, Oxford Academic, 2023, ISSN: 1462-0332. (Science Citation Index) (IF: 6.2)
 
 * Ray. P. P., “Evaluating ChatGPT responses in the context of a 53-year-old male with a femoral neck fracture: a qualitative analysis”, European Journal of Orthopaedic Surgery & Traumatology, Springer, 2023, ISSN: 1432-1068. (Scopus) 
