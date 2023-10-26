@@ -4,6 +4,8 @@ I have written many research papers as listed below.
 
 ## High Quality Journals
 
+* Ray. P. P., “Fostering Support for Pediatric Surgery by Generative AI”, Journal of Pediatric Surgery, Elsevier, 2023, ISSN: 1531-5037. (Science Citation Index) (IF: 2.4)
+
 * Ray. P. P., “Dr. Robo-dietitian: Can ChatGPT Assist in Dietetics?”, Nutrition, Elsevier, 2023, ISSN: 1873-1244. (Science Citation Index) (IF: 4.4)
 
 * Ray. P. P., “Evaluating the Limitations of ChatGPT in Generating Competent Radiology Reports for Distal Radius Fractures”, Current Problems in Diagnostic Radiology, Elsevier, 2023, ISSN: 1535-6302. (Scopus) (IF: 1.4)
