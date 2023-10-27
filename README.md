@@ -4,6 +4,8 @@ I have written many research papers as listed below.
 
 ## High Quality Journals
 
+* Ray. P. P., “Can Generative AI Assist Pediatric Inguinal Hernia Issues?”, Hernia, Springer, 2023, ISSN: 1248-9204. (Science Citation Index) (IF: 2.9)
+
 * Ray. P. P., “Fostering Support for Pediatric Surgery by Generative AI”, Journal of Pediatric Surgery, Elsevier, 2023, ISSN: 1531-5037. (Science Citation Index) (IF: 2.4)
 
 * Ray. P. P., “Dr. Robo-dietitian: Can ChatGPT Assist in Dietetics?”, Nutrition, Elsevier, 2023, ISSN: 1873-1244. (Science Citation Index) (IF: 4.4)
