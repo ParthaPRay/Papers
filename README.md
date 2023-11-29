@@ -4,6 +4,8 @@ I have written many research papers as listed below.
 
 ## High Quality Journals
 
+* Ray. P. P., “How True is the Role of Large Language Models in Nursing?”, European Journal of Cardiovascular Nursing, Oxford Academic, 2023, ISSN: 1873-1953. (Invited) (Science Citation Index) (IF: 2.9)
+  
 * Ray. P. P., “ChatGPT in Transforming Communication in Seismic Engineering: Case Studies, Implications, Key Challenges and Future Directions”, Earthquake Science, Elsevier, 2023, ISSN: 1674-4519. (Scopus) (CS: 1.1)
 
 * Ray. P. P., “Can Generative AI Assist Pediatric Inguinal Hernia Issues?”, Hernia, Springer, 2023, ISSN: 1248-9204. (Science Citation Index) (IF: 2.9)
