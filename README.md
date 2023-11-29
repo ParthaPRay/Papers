@@ -304,12 +304,16 @@ Networks, and QoS Metrics”, Journal of King Saud University - Computer and Inf
 *	Rai, R., Lepcha, C., Ray, P., P., Chettri, P., “GDMA: Generalized Domain Model Architecture of Internet of Things”, In proceeding of National Conference on Applied Electronics (NCAE), AIT Kolkata, pp. 65-68, 2013.
 
 
+
 ## Book Chapter
 
-* Ray. P. P., “An Introduction to Necrobotics: Concept, Architecture, Use Cases, Challenges, Future Directions”, Necrobotics for Healthcare Applications and Management, Elsevier, Eds(Hemachanda K, Raul V. Rodriguez, Murugappan M, Sivaramakrishnan Rajaraman, Rajesh Kumar KV), 2024, ISBN: 9780443248320. (In Press)
+* Ray. P. P., “An Introduction to Necrobotics: Concept, Architecture, Use Cases, Challenges, Future Directions”, Necrobotics for Healthcare Applications and Management, Elsevier, Eds(Hemachanda K, Raul V. Rodriguez, Murugappan M, Sivaramakrishnan Rajaraman, Rajesh Kumar KV), 2025, ISBN: 9780443248320. (In Press)
 *	Ray. P. P., “A Review on IoT Energy Storage with Nanocarbon Materials: Requirements, State-of-the-Art, Challenges, and Future Scope”, NanoCarbon: A Wonder Material for Energy Applications: Volume 2: Fundamentals and Advancement for Energy Storage Applications, Springer, Eds(Ram K. Gupta), 2024. (Accepted).
 *	Majumder. P., Ray. P. P., “Estimation of Basic Reproduction Number and Herd Immunity for COVID-19 in India”, Artificial Intelligence for Information Management: A Healthcare Perspective, Springer, pp. 265-282, Eds(Srinivasa K.G., G. M. S., Sekhar S.R.M), ISBN: 978-981-16-0415-7, 2021.
 *	Ray. P. P., Dash, D. “A Review on Blockchain for IoT-based Medical Delivery Drones: State-of-the-art, Issues, and Future Prospects”, Blockchain Technology for Emerging Applications, Elsevier, Eds(SKH Islam, AK Pal, D Samanta, S Bhattacharyya), ISBN:  9780323901932, 2021.
+
+
+
 
 
 
