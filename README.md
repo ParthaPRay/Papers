@@ -4,6 +4,8 @@ I have written many research papers as listed below.
 
 ## High Quality Journals
 
+* Ray. P. P., Majumder, P., "Re Comment on “The Potential of ChatGPT to Transform Healthcare and Address Ethical Challenges in Artificial Intelligence-Driven Medicine”: Author Response", Journal of Clinical Neurology, Korean Neurological Association, ISSN: 1738-6586. (Science Citation Index) (IF: 3.701). (Accepted)
+
 * Ray. P. P., “RE: Dr. GAI: Significance of generative AI in plastic surgery”, Aesthetic Plastic Surgery, Springer, 2023, ISSN: 1432-5241. (Science Citation Index) (IF: 2.4)
   
 * Ray. P. P., “How True is the Role of Large Language Models in Nursing?”, European Journal of Cardiovascular Nursing, Oxford Academic, 2023, ISSN: 1873-1953. (Invited) (Science Citation Index) (IF: 2.9)
