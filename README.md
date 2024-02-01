@@ -4,6 +4,9 @@ I have written many research papers as listed below.
 
 ## High Quality Journals
 
+
+* Ray. P. P., “Generative AI in Psychiatry: A Potential Companion in the Current Therapeutic Era!”, Asian Journal of Psychiatry, Elsevier, 2024, ISSN: 1876-2026. (Science Citation Index) (IF: 9.5)
+
 * Ray. P. P., “Generative AI and its Impact on Sugarcane Industry: An Insight into Modern Agricultural Practices”, Sugar Tech, Springer, 2024, ISSN: 0974-0740. (Scopus) (IF: 1.9)
   
 * Ray. P. P., Majumder, P., "Re Comment on “The Potential of ChatGPT to Transform Healthcare and Address Ethical Challenges in Artificial Intelligence-Driven Medicine”: Author Response", Journal of Clinical Neurology, Korean Neurological Association, ISSN: 1738-6586. (Science Citation Index) (IF: 3.701). (Accepted)
