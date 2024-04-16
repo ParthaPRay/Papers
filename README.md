@@ -5,6 +5,8 @@ I have written many research papers as listed below.
 ## High Quality Journals
 
 
+* (1)	Ray. P. P., “Integrating AI in Radiology: Insights from GPT-Generated Reports and Multimodal LLM Performance on European Board of Radiology Examinations”, Japanese Journal of Radiology, Springer, 2024, ISSN: 1867-108X. (Science Citation Index) (IF: 2.3)
+  
 * Ray. P. P., “Generative AI in Psychiatry: A Potential Companion in the Current Therapeutic Era!”, Asian Journal of Psychiatry, Elsevier, 2024, ISSN: 1876-2026. (Science Citation Index) (IF: 9.5)
 
 * Ray. P. P., “Generative AI and its Impact on Sugarcane Industry: An Insight into Modern Agricultural Practices”, Sugar Tech, Springer, 2024, ISSN: 0974-0740. (Scopus) (IF: 1.9)
