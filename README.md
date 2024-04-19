@@ -1,6 +1,6 @@
 # Research Papers
 
-I have written many research papers as listed below.
+I have published various research papers as listed below.
 
 ## High Quality Journals
 
