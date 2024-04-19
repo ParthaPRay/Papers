@@ -6,7 +6,7 @@ I have published various research papers as listed below.
 
 
 * Ray. P. P., “Timely Need for Navigating the Potential and Downsides of LLMs in Healthcare and Biomedicine”, Briefings in Bioinformatics, Oxford University Press, 2024, ISSN: 1477-4054. (Science Citation Index) (IF: 9.5)
-* 
+  
 * Ray. P. P., “Integrating AI in Radiology: Insights from GPT-Generated Reports and Multimodal LLM Performance on European Board of Radiology Examinations”, Japanese Journal of Radiology, Springer, 2024, ISSN: 1867-108X. (Science Citation Index) (IF: 2.3)
   
 * Ray. P. P., “Generative AI in Psychiatry: A Potential Companion in the Current Therapeutic Era!”, Asian Journal of Psychiatry, Elsevier, 2024, ISSN: 1876-2026. (Science Citation Index) (IF: 9.5)
