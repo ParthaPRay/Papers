@@ -5,6 +5,8 @@ I have published various research papers as listed below.
 ## High Quality Journals
 
 
+* Ray. P. P., “Addressing Technical Considerations for Implementing Language Models in Postcolonoscopy Patient Management”, Gastrointestinal Endoscopy, Elsevier, 2024, ISSN: 1097-6779. (Science Citation Index) (IF: 7.7)
+  
 * Ray. P. P., “Timely Need for Navigating the Potential and Downsides of LLMs in Healthcare and Biomedicine”, Briefings in Bioinformatics, Oxford University Press, 2024, ISSN: 1477-4054. (Science Citation Index) (IF: 9.5)
   
 * Ray. P. P., “Integrating AI in Radiology: Insights from GPT-Generated Reports and Multimodal LLM Performance on European Board of Radiology Examinations”, Japanese Journal of Radiology, Springer, 2024, ISSN: 1867-108X. (Science Citation Index) (IF: 2.3)
