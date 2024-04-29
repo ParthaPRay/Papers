@@ -5,6 +5,8 @@ I have published various research papers as listed below.
 ## High Quality Journals
 
 
+* Ray. P. P., “Embracing the AI Revolution with Open Large Language Models in Anatomy Education”, Surgical and Radiologic Anatomy, Springer, 2024, ISSN: 1279-8517. (Science Citation Index) (IF: 1.4)
+  
 * Ray. P. P., “Letter to Editor Regarding “Application of the convolution neural network in determining the depth of invasion of gastrointestinal cancer: a systematic review and meta-analysis””, Journal of Gastrointestinal Surgery, Elsevier, 2024, ISSN: 1091-255X. (Science Citation Index) (IF: 3.2)
   
 * Ray. P. P., “Addressing Technical Considerations for Implementing Language Models in Postcolonoscopy Patient Management”, Gastrointestinal Endoscopy, Elsevier, 2024, ISSN: 1097-6779. (Science Citation Index) (IF: 7.7)
