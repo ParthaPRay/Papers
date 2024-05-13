@@ -5,6 +5,8 @@ I have published various research papers as listed below.
 ## High Quality Journals
 
 
+* Ray. P. P., “Artificial General Intelligence for Neurosurgery and Medicine”, Journal of Clinical Neuroscience, Elsevier, 2024, ISSN: 1532-2653. (Science Citation Index) (IF: 2)
+  
 * Ray. P. P., “Letter to the Editor Regarding Depending on Tailor Made Medical Large Language Models for Clinical Setting”, World Neurosurgery, Elsevier, 2024, ISSN: 1878-8769. (Science Citation Index) (IF: 2)
   
 * Ray. P. P., “Embracing the AI Revolution with Open Large Language Models in Anatomy Education”, Surgical and Radiologic Anatomy, Springer, 2024, ISSN: 1279-8517. (Science Citation Index) (IF: 1.4)
