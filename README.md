@@ -5,6 +5,8 @@ I have published various research papers as listed below.
 ## High Quality Journals
 
 
+* Ray. P. P., “Generative AI: A Transformative Force in Advancing Research and Care in Metabolic Dysfunction-Associated Fatty Liver Disease”, Liver Research, Elsevier, 2024, ISSN: 2542-5684. (Scopus) (CF: 5.9)
+  
 * Ray. P. P., “Artificial General Intelligence for Neurosurgery and Medicine”, Journal of Clinical Neuroscience, Elsevier, 2024, ISSN: 1532-2653. (Science Citation Index) (IF: 2)
   
 * Ray. P. P., “Letter to the Editor Regarding Depending on Tailor Made Medical Large Language Models for Clinical Setting”, World Neurosurgery, Elsevier, 2024, ISSN: 1878-8769. (Science Citation Index) (IF: 2)
