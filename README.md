@@ -5,6 +5,8 @@ I have published various research papers as listed below.
 ## High Quality Journals
 
 
+* Ray. P. P., “Opening Doors for Open-Source Large Language Models for Radiology Education”, Radiologia Brasileira, SciELO, 2024, ISSN: 0100-3984. (Scopus) (CF: 3.0)
+  
 * Ray. P. P., “Generative AI: A Transformative Force in Advancing Research and Care in Metabolic Dysfunction-Associated Fatty Liver Disease”, Liver Research, Elsevier, 2024, ISSN: 2542-5684. (Scopus) (CF: 5.9)
   
 * Ray. P. P., “Artificial General Intelligence for Neurosurgery and Medicine”, Journal of Clinical Neuroscience, Elsevier, 2024, ISSN: 1532-2653. (Science Citation Index) (IF: 2)
