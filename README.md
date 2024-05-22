@@ -5,6 +5,8 @@ I have published various research papers as listed below.
 ## High Quality Journals
 
 
+* Ray. P. P., “A Deep Introspection into the Role of ChatGPT for Transforming Hospitality, Leisure, Sport, and Tourism Education”, Journal of Hospitality, Leisure, Sport & Tourism Education, Elsevier, 2024, ISSN: 1473-8376. (Social Sciences Citation Index) (IF: 3.7)
+  
 * Ray. P. P., “Opening Doors for Open-Source Large Language Models for Radiology Education”, Radiologia Brasileira, SciELO, 2024, ISSN: 0100-3984. (Scopus) (CF: 3.0)
   
 * Ray. P. P., “Generative AI: A Transformative Force in Advancing Research and Care in Metabolic Dysfunction-Associated Fatty Liver Disease”, Liver Research, Elsevier, 2024, ISSN: 2542-5684. (Scopus) (CF: 5.9)
