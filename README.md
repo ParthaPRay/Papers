@@ -5,6 +5,8 @@ I have published various research papers as listed below.
 ## High Quality Journals
 
 
+* Ray. P. P., “Open-Source Large Language Models in Medical Education: Balancing Promise and Challenges”, Anatomical Sciences Education, American Association for Anatomy, 2024, ISSN: 1935-9780. (Science Citation Index) (IF: 7.3)
+ 
 * Ray. P. P., “ChatGPT Enigma: Navigating the Jumble of Surgical Generative AI”, Indian Journal of Surgery, Springer, 2024, ISSN: 0973-9793. (Science Citation Index) (IF: 0.4)
   
 * Ray. P. P., “A Deep Introspection into the Role of ChatGPT for Transforming Hospitality, Leisure, Sport, and Tourism Education”, Journal of Hospitality, Leisure, Sport & Tourism Education, Elsevier, 2024, ISSN: 1473-8376. (Social Sciences Citation Index) (IF: 3.7)
