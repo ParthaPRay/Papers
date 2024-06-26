@@ -5,6 +5,8 @@ I have published various research papers as listed below.
 ## High Quality Journals
 
 
+* Ray. P. P., “Upgrading Academic Radiology with Open-Source Large Language Models”, Anatomical Academic Radiology, Association of American Radiology, 2024, ISSN: 1878-4046. (Science Citation Index) (IF: 4.8)
+  
 * Ray. P. P., “Open-Source Large Language Models in Medical Education: Balancing Promise and Challenges”, Anatomical Sciences Education, American Association for Anatomy, 2024, ISSN: 1935-9780. (Science Citation Index) (IF: 7.3)
  
 * Ray. P. P., “ChatGPT Enigma: Navigating the Jumble of Surgical Generative AI”, Indian Journal of Surgery, Springer, 2024, ISSN: 0973-9793. (Science Citation Index) (IF: 0.4)
