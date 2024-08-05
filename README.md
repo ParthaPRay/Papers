@@ -4,7 +4,9 @@ I have published various research papers as listed below.
 
 
 •	SCI Journals: 107
+
 •	SSCI Journals: 1
+
 •	Scopus Journals: 20
 
 
