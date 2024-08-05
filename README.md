@@ -2,9 +2,19 @@
 
 I have published various research papers as listed below.
 
+
+•	SCI Journals: 107
+•	SSCI Journals: 1
+•	Scopus Journals: 20
+
+
 ## High Quality Journals
 
 
+* Ray. P. P., “Large language models in laparoscopic surgery: A transformative opportunity”, Clinical Neuroradiology, Springer, 2024, ISSN: 1869-1447. (Science Citation Index) (IF: 2.4)
+  
+* Ray. P. P., “Large language models in laparoscopic surgery: A transformative opportunity”, Laparoscopic, Endoscopic and Robotic Surgery, Elsevier, 2024, ISSN: 1878-4046. (Scopus Index) (IF: 1.4)
+  
 * Ray. P. P., “Upgrading Academic Radiology with Open-Source Large Language Models”, Anatomical Academic Radiology, Association of American Radiology, 2024, ISSN: 1878-4046. (Science Citation Index) (IF: 4.8)
   
 * Ray. P. P., “Open-Source Large Language Models in Medical Education: Balancing Promise and Challenges”, Anatomical Sciences Education, American Association for Anatomy, 2024, ISSN: 1935-9780. (Science Citation Index) (IF: 7.3)
