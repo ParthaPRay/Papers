@@ -3,7 +3,7 @@
 I have published various research papers as listed below.
 
 
-•	SCI Journals: 107
+•	SCI Journals: 108
 
 •	SSCI Journals: 1
 
@@ -12,6 +12,8 @@ I have published various research papers as listed below.
 
 ## High Quality Journals
 
+
+* Ray. P. P., “Stepping With Caution: Large Language Models for Consulting Infectious Diseases”, Clinical Infectious Diseases, Oxford University Press, 2024, ISSN: 1537-6591. (Science Citation Index) (IF: 8.2)
 
 * Ray. P. P., “Large language models in laparoscopic surgery: A transformative opportunity”, Clinical Neuroradiology, Springer, 2024, ISSN: 1869-1447. (Science Citation Index) (IF: 2.4)
   
