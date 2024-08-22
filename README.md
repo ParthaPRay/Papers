@@ -3,15 +3,17 @@
 I have published various research papers as listed below.
 
 
-•	SCI Journals: 108
+•	SCI Journals: 109
 
 •	SSCI Journals: 1
 
-•	Scopus Journals: 20
+•	Scopus Journals: 21
 
 
 ## High Quality Journals
 
+
+*	Ray. P. P., “Servicing Open-Source Large Language Models for Oncology”, The Oncologist, Oxford University Press, 2024, ISSN: 1549-490X. (Science Citation Index) (IF: 5.3)
 
 * Ray. P. P., “Stepping With Caution: Large Language Models for Consulting Infectious Diseases”, Clinical Infectious Diseases, Oxford University Press, 2024, ISSN: 1537-6591. (Science Citation Index) (IF: 8.2)
 
